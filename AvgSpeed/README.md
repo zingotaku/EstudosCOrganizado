@@ -1,6 +1,6 @@
 # A simple program that calculates ∆T and average speed.
 
-This program calculates two formulas, the Average Speed, and DeltaT.
+This program calculates two formulas, the Average Speed, and ∆T.
 
 [![Foo](https://media.discordapp.net/attachments/955956628304318505/956537053510795304/unknown.png)]()
 
